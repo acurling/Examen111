@@ -1,0 +1,7 @@
+C:\Users\CURLING\source\repos\Examen111\Examen111\bin\Debug\Examen111.exe.config
+C:\Users\CURLING\source\repos\Examen111\Examen111\bin\Debug\Examen111.exe
+C:\Users\CURLING\source\repos\Examen111\Examen111\bin\Debug\Examen111.pdb
+C:\Users\CURLING\source\repos\Examen111\Examen111\obj\Debug\Examen111.csproj.AssemblyReference.cache
+C:\Users\CURLING\source\repos\Examen111\Examen111\obj\Debug\Examen111.csproj.CoreCompileInputs.cache
+C:\Users\CURLING\source\repos\Examen111\Examen111\obj\Debug\Examen111.exe
+C:\Users\CURLING\source\repos\Examen111\Examen111\obj\Debug\Examen111.pdb
