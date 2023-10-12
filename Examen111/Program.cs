@@ -11,6 +11,7 @@ namespace Examen111
         static void Main(string[] args)
         {
             Console.WriteLine(  "hola mundo");
+            Console.WriteLine("Buenas noches");
             Console.ReadLine();
         }
         
